@@ -1,0 +1,23 @@
+{
+  "name": "Vee — DxOfficials Assistant",
+  "short_name": "Vee",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#02070f",
+  "theme_color": "#02070f",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjM2IiBmaWxsPSIjMDIwNzBmIi8+PGNpcmNsZSBjeD0iOTYiIGN5PSI5NiIgcj0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE5ZDNmZiIgc3Ryb2tlLXdpZHRoPSI2Ii8+PHBvbHlnb24gcG9pbnRzPSI5Niw1NCAxMzQsMTIyIDU4LDEyMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZThmYmZmIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1sam9pbj0icm91bmQiLz48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9Ijk2IiBmaWxsPSIjMDIwNzBmIi8+PGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIxNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE5ZDNmZiIgc3Ryb2tlLXdpZHRoPSIxNiIvPjxwb2x5Z29uIHBvaW50cz0iMjU2LDE0NCAzNTcsMzI2IDE1NSwzMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2U4ZmJmZiIgc3Ryb2tlLXdpZHRoPSIxNiIgc3Ryb2tlLWxqb2luPSJyb3VuZCIvPjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
